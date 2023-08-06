@@ -1,0 +1,120 @@
+{
+  "home": {
+    "content": "Looking for a job",
+    "expertT": "Expert-T",
+    "expertTtext": " is perfect choice for you!",
+    "multilanguage": "Multilanguage translation",
+    "conversations": "Conversations",
+    "TextVoidChat": "Text, Voice, Chat",
+    "realTime": "Real - time interpreter",
+    "downloadAPK": "Download APK",
+    "expertPlatform": "Expert-T is a platform for connecting translators & customers.",
+    "theHighlight": "The highlight of Expert-T is that customers can see all of the translator's information displayed on the application,allowing them to select the Expert who best meets their needs."
+  },
+  "narbar": {
+    "aboutExpertT": "About Expert T",
+    "ourFeatures": " Our Features",
+    "partnerRegistration": "Partner Registration",
+    "howToUse": " How to use",
+    "contactUs": "Contact us",
+    "video": "Video",
+    "pdf": "PDF",
+    "menu": "Menu"
+  },
+  "teaser": {
+    "tilte": "What we do best",
+    "tilte_2": "Translating everything",
+    "content": " Expert-T is designed with positivity in mind, because we’re here tomake your translation a good one. Easily connect unlimited real-time interpreter."
+  },
+  "feture": {
+    "language": "Language Is Not Longer",
+    "obstacle": "An Obstacle For Us",
+    "simple": "Simple user interface",
+    "safe": " Safe, secure, fast",
+    "accurate": "Accurate translation ",
+    "support": " 24/7 Support"
+  },
+  "pricing": {
+    "ourFeatures": " Our Features",
+    "advanced": "Advanced services for global users-strongly connect people",
+    "around": " around the world."
+  },
+  "interpreter": {
+    "tilte": "Interpreter Expert ",
+    "tilte1": "Whenever you need translation during your travels, business trips or while studying a language just bring Expert-T. Call now - Fast and accurate interpretation in all contexts supported by a team of experienced interpreter. You can choose your own interpreter that you think they are suitable the most.     "
+  },
+  "translation": {
+    "tilteTranslate": "Translation Expert",
+    "Advanced": "Advanced services for global users - Strongly connect people around the world.",
+    "contentTranslate": "Whenever you need translation during your travels, businesstrips or while studying a language just bring Expert-T. Call now - Fast and accurate interpretation in all contexts supported bya team of experienced interpreter. You can choose your own interpreter that you think they are suitable the most.",
+    "tilteSend": " Send Message",
+    "Send": "Send Message: discuss in more detail about the deal!",
+    "contentSend": "In cases you want to translate documents, transactions, contracts... needs high accuracy in each detail, contact the translator directly via text message in the translator function. We are always ready to support you wherever you are"
+  },
+  "footer": {
+    "title": "Expert T",
+    "textFirst_title": "Fast - Safe - Correct - Friendly",
+    "textFirst": " to use are Expert-T's top priorities.",
+    "textSecond": "We strive to provide the best life solutions while also connecting friends all over the world.",
+    "textThird": "We allow translators in liberating their strengths and utilizing their abilities in languages.",
+    "textFourth": "Also, Expert-T connects customers with translators who can meet their needs in the quickest and most efficient manner.",
+    "get-in-touch": "Get In Touch",
+    "support": "Support",
+    "contact": "Contact us",
+    "home": "Home",
+    "feture": "Features",
+    "about": "About Us"
+  },
+  "popup": {
+    "title": " Welcome to",
+    "titleColor": " Expert-T",
+    "question": "Expert-T: Beta version",
+    "content": " Language is Not Longer an Obstacle for Us ",
+    "total": "Total voucher upto",
+    "text-color": " 3000$ Give-away ",
+    "text-second": "for the first log-in Experts & users",
+    "text-end": " Be a part of us now! "
+  },
+  "translations": {
+    "title": "Translation",
+    "content": "In cases you want to translate documents, transactions, contracts... needs high accuracy in each detail, contact the translator directly via text message in the translation function. We are always ready to support you wherever you are."
+  },
+  "conversation": {
+    "title": "Conversation",
+    "content": "Conversation model suitable for meetings, learning and teamwork. The translation team with a lot of experience working in many fields will definitely impress you."
+  },
+  "register": {
+    "title": "What we do best ",
+    "Expert-T": "Expert-T",
+    "partner": "Partner Registration",
+    "content-first": "Are you looking for a job that you can do from anywhere in the world? Do you want to earn money while you travel? If so, then working as a translator may be the perfect opportunity for you! Translators are in high demand all over the world, so no matter where you go, you will be able to find work.",
+    "content-second": "Creating opportunity jobs for yourself is a great way to get ahead in your career. Be a part of us !",
+    "btn-register": "Register"
+  },
+  "step-register": {
+    "title": "3 Easy Step To Be An Expert",
+    "download": "Download App Here",
+    "fillout": "Register & Fill Out your information to be an expert",
+    "step-1": "Unlimited the number of registration",
+    "step-2": "Unlimited languages",
+    "waitfor": "Wait for approval from admin",
+    "howToUse": "How to use",
+    "1": "Login Expert-T",
+    "2": "Choose the service you want to use: Translation - Interpretation - Conversation",
+    "3": "Scroll and select the employee you think best fits your needs",
+    "4": "Contact directly and make deal",
+    "5": "Transaction payment",
+    "6": "Rate & Review"
+  },
+  "blog": {
+    "title": "Keep Updated From Blog"
+  },
+  "contact": {
+    "title": "Get In Touch ",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Enter your message",
+    "send": "Send"
+  }
+}

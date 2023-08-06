@@ -1,0 +1,119 @@
+{
+  "home": {
+    "content": "找工作？",
+    "expertT": "Expert-T",
+    "expertTtext": " 是您的完美选择",
+    "multilanguage": "支持多语言翻译",
+    "conversations": "对话",
+    "TextVoidChat": "文字、语音、聊天 ",
+    "realTime": "现场翻译 ",
+    "downloadAPK": "下载apk",
+    "expertPlatform": "Expert-T 是一个连接翻译人员和客户的平台。",
+    "theHighlight": "Expert-T 的亮点在于，客户可以看到应用程序上显示的所有译员信息，让他们能够选择最符合他们需求的专家。"
+  },
+  "narbar": {
+    "aboutExpertT": "总体介绍 ",
+    "ourFeatures": " 功能",
+    "partnerRegistration": "合作伙伴注册",
+    "howToUse": " 用户手册",
+    "contactUs": "联系我们",
+    "video": "视频",
+    "pdf": "PDF文件",
+    "menu": "菜单"
+  },
+  "teaser": {
+    "tilte": "What we do best",
+    "tilte_2": "Translating everything",
+    "content": " Expert-T is designed with positivity in mind, because we’re here tomake your translation a good one. Easily connect unlimited real-time interpreter."
+  },
+  "feture": {
+    "language": "语言不是",
+    "obstacle": "对我们来说是一个障碍",
+    "simple": "简单的用户界面",
+    "safe": " 安全、可靠、快速 ",
+    "accurate": "准确的翻译",
+    "support": " 支持 24/7"
+  },
+  "pricing": {
+    "ourFeatures": " Our Features",
+    "advanced": "Advanced services for global users-strongly connect people",
+    "around": " around the world."
+  },
+  "interpreter": {
+    "tilte": "口译专家",
+    "tilte1": "每当您在旅行、商务旅行或学习语言时需要翻译，只需带上 Expert-T。 立即致电 - 在经验丰富的口译员团队的支持下，在所有情况下进行快速准确的口译。 您可以选择自己认为最合适的口译员。 "
+  },
+  "translation": {
+    "tilteTranslate": "翻译专家",
+    "Advanced": "为全球用户提供高级服务 - 将世界各地的人们紧密联系起来。",
+    "contentTranslate": "每当您在旅行、商务旅行或学习语言期间需要翻译时，只需带上 Expert-T。立即致电 - 在经验丰富的口译员团队的支持下，在所有情况下快速准确的口译。您可以选择自己认为最合适的口译员。",
+    "tilteSend": " 发信息",
+    "Send": "发送消息：更详细地讨论交易！",
+    "contentSend": "如果您想翻译文件、交易、合同……每个细节都需要高精度，请通过翻译功能中的短信直接联系翻译。无论您身在何处，我们随时准备为您提供支持"
+  },
+  "footer": {
+    "title": "Expert T",
+    "textFirst": "快速 - 安全 - 正确 - 易于使用是 Expert-T 的首要任务。",
+    "textSecond": "我们努力提供最好的生活解决方案，同时也连接世界各地的朋友。",
+    "textThird": "我们允许翻译人员在语言方面发挥他们的优势，发挥他们的能力。",
+    "textFourth": "此外，Expert-T 将客户与能够以最快和最有效的方式满足他们需求的翻译人员联系起来。",
+    "get-in-touch": "联系信息",
+    "support": "用户手册",
+    "contact": "联系我们",
+    "home": "总体介绍",
+    "feture": "功能",
+    "about": "关于我们"
+  },
+  "popup": {
+    "title": " Welcome to",
+    "titleColor": " Expert-T",
+    "question": "Expert-T: Beta version",
+    "content": " Language is Not Longer an Obstacle for Us ",
+    "total": "Total voucher upto",
+    "text-color": " 3000$ Give-away ",
+    "text-second": "for the first log-in Experts & users",
+    "text-end": " Be a part of us now! "
+  },
+  "translations": {
+    "title": "翻译",
+    "content": "如果您想翻译文件、交易、合同...需要在每个细节上都具有高精度，请在翻译功能中通过短信直接联系译员。无论您身在何处，我们都随时准备为您提供支持"
+  },
+  "conversation": {
+    "title": "对话",
+    "content": "适合会议、学习和团队合作的对话模式。在多个领域工作经验丰富的翻译团队一定会给您留下深刻印象。    "
+  },
+  "register": {
+    "title": "注册成为Expert-T会员 ",
+    "Expert-T": "",
+    "partner": "",
+    "content-first": "您是否正在寻找一份可以在世界任何地方完成的工作？您想在旅行时赚钱吗？如果是这样，那么担任翻译工作可能是您的绝佳机会！世界各地对翻译的需求量很大，因此无论您走到哪里，都可以找到工作。",
+    "content-second": "为自己创造机会工作是在职业生涯中取得成功的好方法。成为我们的一份子",
+    "btn-register": "现在注册"
+  },
+  "step-register": {
+    "title": "成为专家的 3 个简单步骤",
+    "download": "下载应用程序",
+    "fillout": "注册并填写您的信息成为专家",
+    "step-1": "不限注册次数",
+    "step-2": "无限语言",
+    "waitfor": "等待管理员批准",
+    "howToUse": "如何使用？",
+    "1": "登录专家-T",
+    "2": "选择您要使用的服务：笔译-口译-对话",
+    "3": "滚动并选择您认为最适合您需求的专家",
+    "4": "直接联系并达成交易",
+    "5": "交易支付",
+    "6": "评分和评论"
+  },
+  "blog": {
+    "title": "相关文章"
+  },
+  "contact": {
+    "title": "保持联系",
+    "name": "全名",
+    "email": "电子邮件地址",
+    "phone": "电话号码",
+    "message": "输入您的信息",
+    "send": "發送"
+  }
+}

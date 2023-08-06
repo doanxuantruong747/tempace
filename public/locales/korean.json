@@ -1,0 +1,119 @@
+{
+  "home": {
+    "content": "일자리 찾고계신가요?",
+    "expertT": "Expert-T",
+    "expertTtext": " 는 당신에게 좋은 기회입니다.",
+    "multilanguage": "다국어 통번역 지원",
+    "conversations": "대화",
+    "TextVoidChat": "문자, 음성, 채팅",
+    "realTime": "실시간 통역",
+    "downloadAPK": "APK 다운로드 ",
+    "expertPlatform": "Expert-T는 통/번역사와 사용자 간의 연결하는 플랫폼입니다.",
+    "theHighlight": "Expert-T의 뛰어난 특징은 사용자가 애플리케이션 화면에 표시되는 통/번역사의 모든 정보를 쉽게 볼 수 있다는 것입니다. 이를 통해 사용자는 자신이 원하는 요구에 맞는 통/번역사를 찾는 것을 더 쉽게 할 수 있습니다."
+  },
+  "narbar": {
+    "aboutExpertT": "Expert-T 소개",
+    "ourFeatures": " 특징",
+    "partnerRegistration": "회원가입",
+    "howToUse": " 사용안내",
+    "contactUs": "문의하기",
+    "video": "동영상",
+    "pdf": "PDF 파일",
+    "menu": "메뉴"
+  },
+  "teaser": {
+    "tilte": "What we do best",
+    "tilte_2": "Translating everything",
+    "content": " Expert-T is designed with positivity in mind, because we’re here tomake your translation a good one. Easily connect unlimited real-time interpreter."
+  },
+  "feture": {
+    "language": "언어가 우리의 장벽이 되지",
+    "obstacle": "않도록 합니다.",
+    "simple": "사용하기 쉬운 인터페이스",
+    "safe": "안전, 보안, 신속",
+    "accurate": "정확한 통/번역",
+    "support": " 24/7 지원"
+  },
+  "pricing": {
+    "ourFeatures": " Our Features",
+    "advanced": "Advanced services for global users-strongly connect people",
+    "around": " around the world."
+  },
+  "interpreter": {
+    "tilte": "통역 전문가",
+    "tilte1": "여행, 출장 또는 어학연수 중 번역이 필요할 때마다 Expert-T 앱을 사용해보세요. 바로 통화 기능-  숙련된 통역팀이 모든 상황에서 빠르고 정확한 통역이 지원 가능합니다. 가장 적합한 전문가를 직접 선택할 수 있습니다. "
+  },
+  "translation": {
+    "tilteTranslate": "전문가와 직접 연결",
+    "Advanced": "전 세계 사람들을 강력하게 연결할 수 있는 글로벌 사용자를 위한 고급 서비스",
+    "contentTranslate": "여행, 출장, 혹은 심지어 새로운 외국어 배우는 것 등 통/번역이 필요할 때마다 Expert-T를 가져가면 됩니다. &#8243 Call Now &#8243 기능을 통해 경력이 많은 통역사 팀이 당신을 모든 상황에서 빠르고 정확하게 통역하는 데에 도움이 될 수 있습니다. 또는 사용자가 가장 적합하다고 생각하는 통역사를 직접 선택할 수 있습니다.",
+    "tilteSend": "전문가와 연결하기",
+    "Send": "번역 계약에 대한 추가 논의를 위한 다이렉트 메시지 기능",
+    "contentSend": "상세하고 정확한 내용이 필요한 문서, 계약서, 거래 등을 번역하고 싶다면 메시징 기능을 통해 번역사와 직접 연결할 수 있습니다. 당신이 어디에 있든 저희는 항상 당신을 지원합니다."
+  },
+  "footer": {
+    "title": "Expert T",
+    "textFirst": "신속 - 안전 - 정확- 사용시 친절은 Expert-T의 최우선 순위입니다.",
+    "textSecond": "저희는 항상 전 세계의 친구들을 연결하면서 최고의 삶의 솔루션을 제공하기 위해 노력합니다.",
+    "textThird": "저희는 사람들이 자신의 강점과 언어 능력을 자유롭게 할 수 있도록 지원합니다.",
+    "textFourth": "또한 Expert-T는 고객의 요구를 가장 빠르고 효율적으로 충족할 수 있는 통/ 번역사와 고객을 연결합니다.",
+    "get-in-touch": "지원 연락처",
+    "support": "사용안내",
+    "contact": "문의하기",
+    "home": "Expert-T 소개",
+    "feture": "특징",
+    "about": "회사 소개"
+  },
+  "popup": {
+    "title": " Welcome to",
+    "titleColor": " Expert-T",
+    "question": "Expert-T: Beta version",
+    "content": " Language is Not Longer an Obstacle for Us ",
+    "total": "Total voucher upto",
+    "text-color": " 3000$ Give-away ",
+    "text-second": "for the first log-in Experts & users",
+    "text-end": " Be a part of us now! "
+  },
+  "translations": {
+    "title": "대화",
+    "content": "회의, 학습, 팀워크에 적합한 대화 모델입니다. 다양한 분야에서 경험한 통번역팀이 당신을 촣은 인상을 주실 것입니다."
+  },
+  "conversation": {
+    "title": "대화",
+    "content": "회의, 학습, 팀워크에 적합한 대화 모델입니다. 다방면에서 일한 경험이 풍부한 번역팀이 당신을 감동시킬 것입니다."
+  },
+  "register": {
+    "title": "우리가 가장 잘하는 것",
+    "Expert-T": "Expert-T",
+    "partner": "파트너 등록",
+    "content-first": "세계 어디에서나 할 수 있는 직업을 찾고 계십니까? 여행하면서 돈을 벌고 싶습니까? 그렇다면 번역가로 일하는 것이 당신에게 완벽한 기회가 될 수 있습니다! 번역가는 전 세계적으로 수요가 높기 때문에 어디를 가든지 일자리를 찾을 수 있습니다.",
+    "content-second": "자신을 위해 기회 일자리를 만드는 것은 경력에서 앞서나갈 수 있는 좋은 방법입니다. 우리의 일부가 되십시오!",
+    "btn-register": "등록하다"
+  },
+  "step-register": {
+    "title": "전문가가 되기 위한 쉬운 3단계",
+    "download": "여기에서 앱 다운로드",
+    "fillout": "전문가가 되려면 정보를 등록하고 작성하십시오.",
+    "step-1": "무제한 등록 수",
+    "step-2": "무제한 언어",
+    "waitfor": "관리자의 승인을 기다립니다.",
+    "howToUse": "사용법",
+    "1": "Expert- T 로그인",
+    "2": "번역- 통역- 대화 등 사용할 서비스 선택하세요.",
+    "3": "요구에 맞춘 전문가를 스크롤하여 선택하세요.",
+    "4": "직접 연락 및 거래",
+    "5": "거래 결제",
+    "6": "평가 및 리뷰"
+  },
+  "blog": {
+    "title": "블로그에서 업데이트 유지"
+  },
+  "contact": {
+    "title": "문의하기",
+    "name": "성함",
+    "email": "이메일",
+    "phone": "전화번호",
+    "message": "내용 입력",
+    "send": "전송"
+  }
+}

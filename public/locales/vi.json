@@ -1,0 +1,120 @@
+{
+  "home": {
+    "title": "wellcome",
+    "content": "Bạn đang tìm kiếm một công việc?",
+    "expertT": "Expert-T",
+    "expertTtext": " là một cơ hội tuyệt vời cho bạn ",
+    "multilanguage": "Hỗ trợ dịch thuật nhiều ngôn ngữ ",
+    "conversations": "Hội thoại",
+    "TextVoidChat": "Chữ, giọng nói, chat",
+    "realTime": "Phiên dịch trực tiếp",
+    "downloadAPK": "Tải APK",
+    "expertPlatform": "Expert-T là nền tảng kết nối giữa phiên dịch viên và người dùng.",
+    "theHighlight": "Chức năng nổi bật của Expert-T là người dùng có thể dễ dàng nhìn được toàn bộ các thông tin của phiên dịch viên được hiển thị trên màn hình ứng dụng. Việc này giúp cho người dùng dễ dàng hơn trong việc tìm kiếm một phiên dịch viên phù hợp với nhu cầu mà mình mong muốn."
+  },
+  "narbar": {
+    "aboutExpertT": "Giới Thiệu Chung ",
+    "ourFeatures": " Chức Năng ",
+    "partnerRegistration": "Đăng Ký Thành Viên",
+    "howToUse": "Hướng Dẫn Sử Dụng",
+    "contactUs": "Liên Lạc Chúng Tôi",
+    "video": "Video",
+    "pdf": "PDF",
+    "menu": "Menu"
+  },
+  "teaser": {
+    "tilte": "Chúng tôi có thể ",
+    "tilte_2": "Dịch mọi thứ tiếng",
+    "content": " Expert-T được thiết kế với tâm trí tích cực, bởi vì chúng tôi ở đây là để hỗ trợ bạn dịch thuật một cách chính xác nhất theo phong thái của người bản xứ. Dễ dàng kết nối với phiên dịch thời gian thực không giới hạn."
+  },
+  "feture": {
+    "language": "Không để ngôn ngữ",
+    "obstacle": "trở thành rào cản của chúng ta",
+    "simple": "Giao diện dễ sử dụng",
+    "safe": " An toàn, bảo mật, nhanh chóng",
+    "accurate": "Dịch thuật chính xác cao ",
+    "support": " Hỗ trợ 24/7 "
+  },
+  "pricing": {
+    "ourFeatures": " Chức năng nổi bật của Expert-T",
+    "advanced": "Các dịch vụ nâng cao dành cho người dùng toàn cầu - kết nối mạnh mẽ mọi người trên toàn thế giới",
+    "around": ""
+  },
+  "interpreter": {
+    "tilte": "Chuyên gia phiên dịch ",
+    "tilte1": "Bất cứ khi nào bạn cần dịch thuật trong chuyến du lịch, công tác hoặc khi đang học ngoại ngữ, chỉ cần mang theo Expert-T. Gọi ngay - Phiên dịch nhanh chóng và chính xác trong mọi ngữ cảnh được hỗ trợ bởi đội ngũ phiên dịch viên giàu kinh nghiệm. Bạn có thể chọn thông dịch viên của riêng mình mà bạn cho rằng họ phù hợp nhất."
+  },
+  "translation": {
+    "tilteTranslate": "Kết nối trực tiếp với Expert ",
+    "Advanced": "Dịch vụ nâng cao dành cho người dùng toàn cầu - kết nối mạnh mẽ mọi người trên toàn thế giới.",
+    "contentTranslate": "Bất cứ khi nào bạn cần dịch thuật: khi đi du lịch, công tác hoặc thậm chí khi đang học thêm một ngoại ngữ mới, chỉ cần mang theo Expert-T. Chức năng gọi - Phiên dịch nhanh chóng và chính xác trong mọi ngữ cảnh được hỗ trợ bởi đội ngũ phiên dịch viên giàu kinh nghiệm. Bạn có thể tùy chọn những thông dịch viên của riêng mình mà bạn cho rằng họ phù hợp nhất.",
+    "tilteSend": " Nhắn tin với các Expert",
+    "Send": "Chức năng gửi tin nhắn trực tiếp để thảo luận thêm về các hợp đồng biên dịch. ",
+    "contentSend": "Trong trường hợp bạn muốn dịch thuật các tài liệu, hợp đồng, giao dịch … cần thông tin với độ chi tiết và chính xác cao. Hãy kết nối trực tiếp với các biên dịch viên thông qua chức năng gửi tin nhắn. Chúng tôi luôn bên bạn để hỗ trợ dù bạn đang ở bất cứ nơi đâu. "
+  },
+  "footer": {
+    "title": "Expert T",
+    "textFirst": "Nhanh chóng - An toàn - Chính xác - Thân thiện khi sử dụng là những ưu tiên hàng đầu của Expert-T.",
+    "textSecond": "Chúng tôi luôn cố gắng để cung cấp các giải pháp cuộc sống tốt nhất đồng thời kết nối bạn bè trên toàn thế giới.",
+    "textThird": "Chúng tôi hỗ trợ mọi người giải phóng thế mạnh và khả năng sử dụng ngôn ngữ của họ.",
+    "textFourth": "Ngoài ra, Expert-T kết nối khách hàng với các dịch giả có thể đáp ứng nhu cầu của họ một cách nhanh nhất và hiệu quả nhất.",
+    "get-in-touch": "Liên hệ Hỗ trợ",
+    "support": "Hướng dẫn sử dụng",
+    "contact": "Liên lạc",
+    "home": "Giới thiệu chung",
+    "feture": "Chức năng",
+    "about": "Về chúng tôi"
+  },
+  "popup": {
+    "title": " Welcome to",
+    "titleColor": " Expert-T",
+    "question": "Expert-T: Beta version",
+    "content": " Language is Not Longer an Obstacle for Us ",
+    "total": "Total voucher upto",
+    "text-color": " 3000$ Give-away ",
+    "text-second": "for the first log-in Experts & users",
+    "text-end": " Be a part of us now! "
+  },
+  "translations": {
+    "title": "Dịch thuật",
+    "content": "Trong trường hợp cần dịch tài liệu, các giao dịch, hợp đồng cần độ chính xác cao và chi tiết; hãy liên hệ trực tiếp các dịch thuật viên thông qua chức năng “nhắn tin”. Expert-T team chúng tôi luôn sẵn sàng hỗ trợ bạn dù bạn ở bất kỳ nơi nào trên thế giới."
+  },
+  "conversation": {
+    "title": "Dịch hội thoại",
+    "content": "Mẫu dịch hội thoại phù hợp cho mô hình các cuộc họp, học tập và teamwork. Đội dịch thuật viên với nhiều năm kinh nghiệm trong nhiều lĩnh vực khác nhau chắc chắn sẽ làm bạn ấn tượng."
+  },
+  "register": {
+    "title": "Đăng ký thành viên Expert-T",
+    "Expert-T": "",
+    "partner": "",
+    "content-first": "Bạn đang tìm kiếm một công việc mà có thể làm việc tự do dù bạn đang ở bất kỳ nơi nào trên giới? Vừa đi du lịch mà vừa có thể làm việc kiếm thêm thu nhập? Trở thành dịch thuật viên của Expert-T là lựa chọn hoàn hảo dành cho bạn! ",
+    "content-second": "Tự tạo cơ hội việc làm cho bản thân là một cách tuyệt vời để thăng tiến trong sự nghiệp. Hãy là thành viên của chúng tôi.",
+    "btn-register": "Đăng ký tại đây"
+  },
+  "step-register": {
+    "title": "3 bước đơn giản để trở thành Dịch thuật viên",
+    "download": "Tải ứng dụng ",
+    "fillout": "Đăng ký và điền các thông tin để trở thành dịch thuật viên",
+    "step-1": "Không giới hạn số lượng đăng ký",
+    "step-2": "không giới hạn ngôn ngữ",
+    "waitfor": "Chờ Admin Expert-T phê duyệt",
+    "howToUse": "Hướng dẫn sử dụng",
+    "1": "Đăng nhập Expert-T",
+    "2": "Chọn dịch vụ bạn muốn sử dụng: Biên dịch - Phiên dịch - Dịch hội nhóm",
+    "3": "Lựa chọn dịch thuật viên phù hợp với nhu cầu sử dụng",
+    "4": "Kết nối trực tiếp với dịch thuật viên ",
+    "5": "Thanh toán giao dịch ",
+    "6": "Đánh giá dịch vụ "
+  },
+  "blog": {
+    "title": "Các bài viết liên quan "
+  },
+  "contact": {
+    "title": "Liên lạc với chúng tôi",
+    "name": "Họ và tên",
+    "email": "Email",
+    "phone": "Số điện thoại ",
+    "message": "Điền thông tin",
+    "send": "Gửi"
+  }
+}

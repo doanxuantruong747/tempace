@@ -1,0 +1,47 @@
+{
+  "homepage": ".",
+  "name": "next-landing-vpn",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "deploy": "npm run export && tar.exe -a -c -f ..\\out.zip out public && scp -i D:\\projects\\key\\product\\expert-T-homepage_18.136.121.239.pem ..\\out.zip ubuntu@18.136.121.239:~/ && deploy.bat",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "@headlessui/react": "^1.7.4",
+    "@heroicons/react": "^2.0.13",
+    "@n8tb1t/use-scroll-position": "^2.0.3",
+    "animate.css": "^4.1.1",
+    "emailjs-com": "^3.2.0",
+    "flowbite": "^1.5.3",
+    "flowbite-react": "^0.1.11",
+    "framer-motion": "^6",
+    "i18next": "^22.0.2",
+    "i18next-browser-languagedetector": "^6.1.8",
+    "i18next-http-backend": "^1.4.4",
+    "i18next-xhr-backend": "^3.2.2",
+    "next": "^12.3.0",
+    "postcss-import": "^13.0.0",
+    "react": "^18.2.0",
+    "react-animation-on-scroll": "^5.1.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.0",
+    "react-i18next": "^12.0.0",
+    "react-icons": "^4.6.0",
+    "react-scroll": "^1.8.1",
+    "react-slick": "^0.27.13",
+    "sharp": "^0.31.0",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^9.2.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "babel-plugin-inline-react-svg": "^1.1.2",
+    "postcss": "^8.4.18",
+    "tailwindcss": "^3.2.0"
+  }
+}

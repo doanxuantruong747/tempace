@@ -1,0 +1,1 @@
+ssh -i D:\\projects\\key\\product\\expert-T-homepage_18.136.121.239.pem ubuntu@18.136.121.239 "cd /var/www/html/ExpertT && sudo mv ~/out.zip /var/www/html/ExpertT && sudo unzip -o out.zip && sudo chown -R ubuntu:ubuntu ./* && pm2 delete all && pm2 start npm --name blog -- start && pm2 save"

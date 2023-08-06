@@ -1,0 +1,35 @@
+.button_3d_dowload {
+}
+.button_3d_dowload::after {
+}
+.dowload_btn_1 {
+  animation: dowload_btn_1 4s linear infinite;
+}
+
+.bouding {
+  animation: bouding 6s linear infinite;
+}
+.dowload_btn {
+  transition: all 0.3s;
+}
+.dowload_btn:hover {
+  scale: 1.2;
+}
+@keyframes bouding {
+  0% {
+    transform: scale(0.7);
+    opacity: 0.5;
+    box-shadow: none;
+  }
+  50% {
+    transform: scale(1);
+    opacity: 1;
+    /* box-shadow: 0 0px 165px 42px #ffffff47; */
+    border-radius: 50%;
+  }
+  100% {
+    transform: scale(0.7);
+    opacity: 0.5;
+    box-shadow: none;
+  }
+}
