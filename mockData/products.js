@@ -1,23 +1,70 @@
-import banhLocChay from "@/assets/products/banh-loc-chay.jpg";
-import banhLocChay1 from "@/assets/products/banh-loc-chay1.jpg";
-import banhLocChay2 from "@/assets/products/banh-loc-chay2.jpg";
-import banhLocChay3 from "@/assets/products/banh-loc-chay3.jpg";
-import banhLocChay4 from "@/assets/products/banh-loc-chay4.jpg";
-import banhLocChay5 from "@/assets/products/banh-loc-chay5.jpg";
+import tiviGold from "@/assets/products/image-hero1.png";
+import tiviDen from "@/assets/products/card3.png";
 
 
 export const products = [
-
   {
     id: 1,
-    name: "Cua Cà Mau Thiên Nhiên",
-    price: 0,
-    priceSale: 0,
+    name: "Tivi Woolpad - Viền Vàng",
+    price: 9228450,
+    priceSale: 8389500,
+    race: 5,
+    inch: "50inch",
+    unit: "",
+    describe: "Màn hình 4K, chất lượng hình ảnh 12k. Hình ảnh chân thực như cuộc sống, trải nghiệm tận mắt thắng cảnh",
+    img: [tiviGold]
+  },
+  {
+    id: 2,
+    name: "Tivi Woolpad - Đen",
+    price: 9228450,
+    priceSale: 8389500,
     race: 5,
     unit: "",
-    describe: "",
-    img: []
+    describe: "Trải nghiệm chất lượng âm thanh mạnh mẽ khi TV hòa âm cùng soundbar. Âm thanh vòm chuẩn điện ảnh ngay tại nhà",
+    img: [tiviDen]
   },
+  {
+    id: 2,
+    name: "Tivi Woolpad - Đen",
+    price: 9228450,
+    priceSale: 8389500,
+    race: 5,
+    unit: "",
+    describe: "Trải nghiệm chất lượng âm thanh mạnh mẽ khi TV hòa âm cùng soundbar. Âm thanh vòm chuẩn điện ảnh ngay tại nhà",
+    img: [tiviDen]
+  },
+  {
+    id: 2,
+    name: "Tivi Woolpad - Đen",
+    price: 9228450,
+    priceSale: 8389500,
+    race: 5,
+    unit: "",
+    describe: "Trải nghiệm chất lượng âm thanh mạnh mẽ khi TV hòa âm cùng soundbar. Âm thanh vòm chuẩn điện ảnh ngay tại nhà",
+    img: [tiviDen]
+  },
+  {
+    id: 2,
+    name: "Tivi Woolpad - Đen",
+    price: 9228450,
+    priceSale: 8389500,
+    race: 5,
+    unit: "",
+    describe: "Trải nghiệm chất lượng âm thanh mạnh mẽ khi TV hòa âm cùng soundbar. Âm thanh vòm chuẩn điện ảnh ngay tại nhà",
+    img: [tiviDen]
+  },
+  {
+    id: 2,
+    name: "Tivi Woolpad - Đen",
+    price: 9228450,
+    priceSale: 8389500,
+    race: 5,
+    unit: "",
+    describe: "Trải nghiệm chất lượng âm thanh mạnh mẽ khi TV hòa âm cùng soundbar. Âm thanh vòm chuẩn điện ảnh ngay tại nhà",
+    img: [tiviDen]
+  },
+
 
 
 ];

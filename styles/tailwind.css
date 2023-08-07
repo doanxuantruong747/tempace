@@ -111,6 +111,7 @@ Header
 
 .hero-card:is(:hover, :focus) .img-cover {
   transform: scale(1.1);
+  cursor: pointer;
 }
 
 .img-holder {
@@ -118,7 +119,6 @@ Header
   background-color: var(--light-gray);
   overflow: hidden;
 }
-
 
 .font-haviland {
   font-family: 'Mr De Haviland', cursive;
