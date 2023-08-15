@@ -6,7 +6,7 @@ import Image from 'next/image';
 // import { isMobile } from 'react-device-detect';
 
 function HotLine() {
-  const zaloUrl = 'https://zalo.me/0939361051';
+  const zaloUrl = 'https://zalo.me/0903090891';
 
   const handleClick = () => {
     window.open(zaloUrl, '_blank');

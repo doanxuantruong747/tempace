@@ -21,10 +21,13 @@ export const Card = ({ product }) => {
             <Racting rating={race} />
           </div>
           <div className='py-[10px] pl-[10px] flex items-center '>
-            <p className=''><span className='text-[16px] text-[#636060] font-normal line-through pt-[10px]'>{price.toLocaleString()}</span><span>đ</span></p>
-            <p className='pl-[15px] text-[22px] text-[#181717] font-semibold'>{priceSale.toLocaleString()}<span>đ</span>
-              {/* <span className='text-[18px] font-medium'>{`/ ${product.unit}`}</span> */}
-            </p>
+            {price > 0
+              ? (<> <p className=''><span className='text-[16px] text-[#636060] font-normal line-through pt-[10px]'>{price.toLocaleString()}</span><span>đ</span></p>
+                <p className='pl-[15px] text-[22px] text-[#181717] font-semibold'>{priceSale.toLocaleString()}<span>đ</span>
+                  {/* <span className='text-[18px] font-medium'>{`/ ${product.unit}`}</span> */}
+                </p> </>)
+              : (<p className='text-[18px] text-[#181717] font-semibold'>Liên hệ Zalo </p>)
+            }
           </div>
         </div>
 

@@ -1,7 +1,6 @@
 import Image from "next/image";
 import { useRouter } from "next/router";
 import React, { useEffect, useState } from "react";
-
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/pagination';
@@ -10,15 +9,15 @@ import { products } from '../../mockData/products'
 
 
 
-export const LeftSlider = () => {
+export const LeftSlider = ({ product }) => {
   const [activeIndex, setActiveIndex] = useState(0);
 
   const router = useRouter()
-  let product = null;
-  products?.find((item) => {
-    if (item?.name === router?.query?.id)
-      return product = item
-  })
+  // let product = null;
+  // products?.find((item) => {
+  //   if (item?.name === router?.query?.id)
+  //     return product = item
+  // })
 
   const [images, setImages] = useState(product?.img);
 
@@ -70,7 +69,7 @@ export const LeftSlider = () => {
         >
           {!images ? "" : images.map((item, index) => (
             <SwiperSlide>
-              <div className={`mt-[10px] w-[75px] h-[75px] cursor-pointer ml-1 rounded-[5px] ${activeIndex === index ? 'outline-[#84B213] outline outline-offset-2 outline-2 ' : ''}`}
+              <div className={`mt-[10px] w-[75px] h-[75px] cursor-pointer ml-1 rounded-[5px] ${activeIndex === index ? 'outline-[#f08a8a] outline outline-offset-2 outline-2 ' : ''}`}
                 onClick={() => { setActiveIndex(index) }}> <Image src={item} width={75} height={75} className="rounded-[5px] " /></div>
             </SwiperSlide>))
 

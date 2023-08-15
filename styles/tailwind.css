@@ -123,3 +123,47 @@ Header
 .font-haviland {
   font-family: 'Mr De Haviland', cursive;
 }
+
+/* hot line */
+.hot-line {
+  position: fixed;
+  /* background-color: #ffffff; */
+  padding: 10px;
+  /* border: #0084ff solid 1px; */
+  /* border-radius: 5px; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  right: 15px;
+  bottom: 0px;
+  cursor: pointer;
+  animation: gotop 1s ease;
+  z-index: 9999;
+}
+
+/* box-price */
+.box-price {
+  border-radius: 50%;
+  border: solid 1.5px #0c0302;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+/* item run letf*/
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+.animate-carousel {
+  animation: marquee 20s linear infinite;
+}

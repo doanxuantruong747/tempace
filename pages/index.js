@@ -7,6 +7,7 @@ import '../i18next';
 import { Products } from '@/components/products/Card';
 import { Hero } from '@/components/home/Hero';
 import { ListProduct } from '@/components/products/ListProduct';
+import HotLine from '@/components/HotLine';
 
 const LayoutWrapper = dynamic(() => import('@/components/Layout/Layout'), {
   ssr: true,
@@ -26,6 +27,7 @@ export default function Home() {
         </div>
 
         <ListProduct />
+        <HotLine />
       </LayoutWrapper>
     </React.Suspense>
   );

@@ -6,13 +6,15 @@ import { Carousel } from "./Carousel";
 import { SimilarProduct } from "./SimilarProduct";
 import { products } from '../../mockData/products'
 import { LeftSlider } from './LeftSlider';
+import RightTiVi from './RightTiVi';
+import SubDetail from '../tivi_page/SubDetail';
 
-export const DetailProduct = () => {
+export const DetailTivi = () => {
   let product
   const router = useRouter()
 
   products?.find((item) => {
-    if (item?.name === router?.query?.id)
+    if (item?.name === "Tivi Woolpad - Viền Vàng")
       return product = item
   })
 
@@ -23,14 +25,14 @@ export const DetailProduct = () => {
           <LeftSlider product={product} />
         </div>
         <div className="xl:w-[40%] lg:w-[50%] w-[100%] lg:ml-10">
-          {/* <RightDetail product={product} /> */}
+          <RightTiVi />
         </div>
       </div>
-      <div className="pt-[100px]">
-
+      <div className="py-[100px]">
+        <SubDetail />
       </div>
 
-      {/* <SimilarProduct slideData={products} /> */}
+      <SimilarProduct slideData={products} />
 
     </div>
   )
