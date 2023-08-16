@@ -1,11 +1,10 @@
 import { useRouter } from 'next/router';
 import React from 'react';
-// import { LeftDetail } from "./LeftDetail";
-// import { RightDetail } from "./RightDetail";
 import { Carousel } from "./Carousel";
 import { SimilarProduct } from "./SimilarProduct";
 import { products } from '../../mockData/products'
 import { LeftSlider } from './LeftSlider';
+import { RightDetail } from './RightDetail';
 
 export const DetailProduct = () => {
   let product
@@ -23,14 +22,14 @@ export const DetailProduct = () => {
           <LeftSlider product={product} />
         </div>
         <div className="xl:w-[40%] lg:w-[50%] w-[100%] lg:ml-10">
-          {/* <RightDetail product={product} /> */}
+          <RightDetail product={product} />
         </div>
       </div>
       <div className="pt-[100px]">
 
       </div>
 
-      {/* <SimilarProduct slideData={products} /> */}
+      <SimilarProduct slideData={products} />
 
     </div>
   )

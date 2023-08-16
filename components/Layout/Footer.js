@@ -17,7 +17,7 @@ const Footer = () => {
       <div className=" flex lg:justify-between justify-center lg:flex-row flex-col custom_container">
 
         <div>
-          <div className="relative col-start-1 col-end-2 flex items-center md:w-[240px] w-[150px] md:h-[45px] h-[35px] cursor-pointer">
+          <div className="relative col-start-1 col-end-2 flex items-center md:w-[180px] w-[120px] md:h-[35px] h-[25px] cursor-pointer">
             <Image src={Logo} fill layout="fill" style={{ objectFit: "contain" }} />
           </div>
           <p className="text-[#8d8989] mt-3">Copyright © 2023 WoolpadStore</p>

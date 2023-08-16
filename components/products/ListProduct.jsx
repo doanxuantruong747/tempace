@@ -1,8 +1,20 @@
 import React from 'react'
 import { Card } from './Card'
 import { products } from '../../mockData/products'
+import { useRouter } from 'next/router'
 
 export const ListProduct = () => {
+  const router = useRouter()
+
+  const handleClickProductViTi = () => {
+    router.push(`/tivi`);
+  }
+
+  const handleClickProduct = (id, name) => {
+    typeof window !== "undefined" && localStorage.setItem("productId", id);
+    const nameReplace = name
+    router.push(`${nameReplace}`);
+  }
 
   return (
     <div className='custom_container '>
@@ -13,7 +25,12 @@ export const ListProduct = () => {
       <div className=' flex flex-wrap mb-[50px] w-full' >
         {products.map((item, index) => {
           if (item.category === "thiết bị điện tử")
-            return (<div key={item.id}><Card product={item} /></div>)
+            return <>
+              {item.categoryProduct === "tivi"
+                ? (<div key={item.id} onClick={handleClickProductViTi}><Card product={item} /></div>)
+                : (<div key={item.id} onClick={() => { handleClickProduct(index, item.name) }}><Card product={item} /></div>)
+              }
+            </>
         })}
       </div>
 
@@ -21,7 +38,8 @@ export const ListProduct = () => {
       <div className=' flex flex-wrap mb-[50px] w-full' >
         {products.map((item, index) => {
           if (item.category === "nội thất")
-            return (<div key={item.id}><Card product={item} /></div>)
+            return (<div key={item.id} onClick={() => { handleClickProduct(index, item.name) }}>
+              <Card product={item} /></div>)
         })}
       </div>
     </div>
